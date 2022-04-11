@@ -1,2 +1,2 @@
 # AVS
-Semestr 6 - AVS
+Semestr 6 - Advanced Vision Systems
